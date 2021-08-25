@@ -5,9 +5,9 @@ Códigos realizados em sala de aula.
 
 ## 24/08/2021
 - Introdução a comandos básicos de git e github.
-'''
+```
 git clone
 git add ["NOME_ARQUIVO" para um arquivo, "NOME PASTA" para uma pasta]
 git commit -m "MENSAGEM"
 git push origin
-'''
+```
